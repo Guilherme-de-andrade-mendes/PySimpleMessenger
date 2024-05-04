@@ -1,0 +1,10 @@
+Necessário automatizar:
+- Automatizar leitura de dados da planilha.
+- Acesso a plataforma "WhatsApp" versão web.
+- Automatizar digitação de mensagem e envio para cada usuários.
+
+bibliotecas:
+- Pyautogui
+- webbrowser
+- openpyxl
+
